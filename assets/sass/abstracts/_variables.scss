@@ -1,6 +1,6 @@
-// Variables Color
+/* Variables Color */
 
-// Color Scheme
+/* Color Scheme */
 $white: #fff;
 $platinum: #e6e7e7;
 $light-gray: #d1d1d1;
@@ -11,37 +11,40 @@ $eerie-black: #121619;
 $raisin-black: #222323;
 $nickel: #6c6e70;
 
-// Links Color
+/* Links Color */
 $primary: #d76c69;
 $secondary: #535353;
 $light: #d1d1d1;
 $dark: #121619;
 
-// Variables Typography
+/* Variables Typography */
 
-// Font Family
+/* Font Family */
 $playfair: "Playfair Display", serif;
 $roboto: "Roboto", sans-serif;
 
-// Font Weight Playfair
+/* Font Weight Playfair */
 $playfair-regular: 400;
 $playfair-black: 900;
 
-// Font Weight Roboto
+/* Font Weight Roboto */
 $roboto-light: 300;
 $roboto-regular: 400;
 
-// Variables Font Size
+/* Variables Font Size */
 
-// Font Size Playfair
+/* Font Size Playfair */
 $playfair-xx-large: 70px;
 $playfair-x-large: 30px;
 $playfair-large: 18px;
 $playfair-medium: 16px;
 
-// Font Size Roboto
+/* Font Size Roboto */
 $roboto-medium: 16px;
 $roboto-small: 12px;
 
-// Buttons
+/* Buttons */
 $buttons: #707070;
+
+/* Pagination */
+$border-radius-pagination: 0 50px 50px 0;

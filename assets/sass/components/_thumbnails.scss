@@ -1,3 +1,4 @@
+/* Component Thumbnails */
 .autor {
   padding: 1rem 0;
   &__thumbnails {
@@ -12,11 +13,13 @@
     font-weight: $playfair-black;
     font-size: $playfair-x-large;
     font-style: italic;
+    padding-top: 2rem;
   }
   &__rrss,
   &__web {
     color: $primary;
     font-weight: $roboto-light;
     font-size: $roboto-medium;
+    text-decoration: none;
   }
 }
