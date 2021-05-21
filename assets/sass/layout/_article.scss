@@ -1,0 +1,19 @@
+.article {
+  padding: 4rem 0;
+  &__date {
+    font-family: $playfair;
+    font-weight: $playfair-regular;
+    font-size: $playfair-medium;
+    padding-bottom: 2rem;
+  }
+  &__text {
+    font-family: $roboto;
+    font-size: $roboto-medium;
+    font-weight: $roboto-light;
+    line-height: 40px;
+  }
+}
+
+.buttons {
+  padding: 4rem 0;
+}

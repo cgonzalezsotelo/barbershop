@@ -1,3 +1,5 @@
+// Vendors
+@import "vendors/bootstrap5/bootstrap.scss";
 // Abstracts
 @import "abstracts/variables";
 // Base
@@ -5,14 +7,15 @@
 // Components
 @import "components/buttons";
 @import "components/hero";
+@import "components/thumbnails";
+@import "components/links";
+@import "components/pagination";
 // Layout
 @import "layout/article";
 @import "layout/footer";
 @import "layout/header";
 @import "layout/navigation";
+@import "layout/section";
 // Pages
 @import "pages/home";
 // Themes
-
-// Vendors
-@import "vendors/scss/bootstrap.scss";

@@ -1,0 +1,22 @@
+.autor {
+  padding: 1rem 0;
+  &__thumbnails {
+    img {
+      width: 140px;
+      height: 140px;
+      border-radius: 100px;
+    }
+  }
+  &__name {
+    font-family: $playfair;
+    font-weight: $playfair-black;
+    font-size: $playfair-x-large;
+    font-style: italic;
+  }
+  &__rrss,
+  &__web {
+    color: $primary;
+    font-weight: $roboto-light;
+    font-size: $roboto-medium;
+  }
+}
