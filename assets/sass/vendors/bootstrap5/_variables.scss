@@ -374,7 +374,7 @@ $border-color: $gray-300 !default;
 // scss-docs-end border-variables
 
 // scss-docs-start border-radius-variables
-$border-radius: 0.25rem !default;
+$border-radius: 1rem !default;
 $border-radius-sm: 0.2rem !default;
 $border-radius-lg: 0.3rem !default;
 $border-radius-pill: 50rem !default;
@@ -989,7 +989,7 @@ $navbar-toggler-transition: box-shadow 0.15s ease-in-out !default;
 // scss-docs-end navbar-variables
 
 // scss-docs-start navbar-theme-variables
-$navbar-dark-color: rgba($white, 0.55) !default;
+$navbar-dark-color: rgba($white, 1) !default;
 $navbar-dark-hover-color: rgba($white, 0.75) !default;
 $navbar-dark-active-color: $white !default;
 $navbar-dark-disabled-color: rgba($white, 0.25) !default;
